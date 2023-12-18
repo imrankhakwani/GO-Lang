@@ -1,0 +1,6 @@
+make coffee
+clean desk
+eat dinner
+create video
+polish shoes
+play cricket
