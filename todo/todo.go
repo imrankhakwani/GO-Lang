@@ -14,6 +14,8 @@ func main() {
 main_loop:
 	for {
 		fmt.Print("Type 'add', 'show', 'complete', 'edit' 'exit': ")
+
+		// Read user input
 		user_action = sliceInput()
 
 		if len(user_action) == 0 {
